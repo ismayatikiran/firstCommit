@@ -1,5 +1,6 @@
 package Arrays;
 
+
 public class usaArrays {
 
     public static void main(String[] args) {
